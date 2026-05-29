@@ -144,7 +144,7 @@ Tres archivos CSV con datos de exploración geológica — **100,000 registros p
 ## 💡 Conclusiones Clave
 
 - La **Región 1** es la recomendación de inversión más sólida, con el mayor
-  beneficio promedio ($6,454,391), el menor riesgo de pérdida (0.50% — casi
+  beneficio promedio ($6,454,391), el menor riesgo de pérdida (0.50%, casi
   6 veces por debajo del umbral) y el intervalo de confianza inferior más alto
   ($1,301,494), garantizando ganancias incluso en escenarios adversos.
 
@@ -194,6 +194,6 @@ jupyter notebook OilyGiant-Optimización-Pozos-Machine-Learning.ipynb
 
 ## 👤 Autor
 
-**Juan** — Junior Data Scientist | Geology & Mining Engineer
+**Juan Carlos Buri** — Junior Data Scientist | Geology & Mining Engineer
 
 Proyecto desarrollado como parte del programa **Data Scientist — TripleTen Bootcamp 2026**
