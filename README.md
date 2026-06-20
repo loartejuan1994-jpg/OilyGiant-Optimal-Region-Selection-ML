@@ -80,7 +80,7 @@ Tres archivos CSV con datos de exploración geológica — **100,000 mil registr
 
 ```
 1. Exploración EDA
-   ├── 300,000 registros — 0 nulos y 0 duplicados
+   ├── 300,000 mil registros — 0 nulos y 0 duplicados
    ├── Análisis de distribución de variable objetivo (product)
    └── Detección de particularidades por región (f2 discreta en Región 1)
 
