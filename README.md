@@ -47,7 +47,7 @@ OilyGiant-Optimización-Pozos-Machine-Learning/
 
 ## 📊 Dataset
 
-Tres archivos CSV con datos de exploración geológica — **100,000 registros por región**.
+Tres archivos CSV con datos de exploración geológica — **100,000 mil registros por región**.
 
 | Columna | Tipo | Descripción |
 |---------|------|-------------|
